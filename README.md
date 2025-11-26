@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________
 
-## **Enhancement One - Software Design and Development
+## **Enhancement One - Software Design and Development**
 
 The artifact that I have selected for the first enhancement is my basic text-adventure game Bletheria. This project was originally created using Python as a single procedural script during one of my first courses here at SNHU. The original version included the full game loop, item collection, a branching storyline depending on the items you have, and a final boss encounter all inside one large file.  Although the game was functional and fun to play, the way it was structured was flat and very difficult to maintain and update. It relied heavily on global variable and large conditional blocks, which ultimately limited scalability and essentially made future expansion exceptionally more challenging to execute.
 
