@@ -20,5 +20,20 @@ One of the biggest challenges I faced in this enhancement came when I was restru
 
 I believe overall this enhancement strengthened my ability to analyze code that I have already created, plan a complete refactoring, and deliver a cleaner and more professional version of my game. It showcased the importance of organization within code and set a solid foundation for my next enhancements that involve pathfinding, databases, and secure user authentication.
 
-[Link to Enhancement One Repository](https://github.com/krum4643/CS499/tree/main/Enhancement%201/Bletheria)
+[Link to Enhancement One](https://github.com/krum4643/CS499/tree/main/Enhancement%201/Bletheria)
+
+______________________________________________________________________________________
+
+## **Enhancement Two: Algorithms and Data Structures**
+
+For enhancement 2 I selected the same artifact as enhancement 1, which is my text-adventure game that I developed in my Intro to Scripting class. At this point I have ported the original game over to Java and successfully created an object-oriented class-based game that is more easily scalable and maintainable. Enhancement 2 directly builds from enhancement 1 which was the port. I chose this artifact because I can take my super basic single file procedural Pythion code that was one of the first working programs I have built in this degree and completely overhaul it making it more manageable, maintainable, and able to handle algorithms that I add in. In enhancement 2, I improved the Java version by adding new features that required me to think structurally. These enhancements include a room directory, a hint system that uses logic to guide the player in the correct direction, and cleaner data that is handled across the game’s multiple components. These improvements highlight my ability to work with HashMaps, lists, and routing logic to create organized and efficient systems.
+
+In completing this enhancement, I have successfully met the outcomes I targeted in Module One that relates to designing and evaluating computing solutions using appropriate data structures and algorithmic principles. By expanding the way the rooms are internally mapped with exits and commands as well as implementing the new hint algorithm, I was able to make the game stronger and more complex. So far, my outcome coverage plan hasn’t changed and with this enhancement I have positioned myself well to address database and security outcomes in my later work.
+  
+Reflecting on the process, I learned the importance of modular design and clear relationships between data in order to be able to scale the game in the future. Moving from a procedural layout to the more flexible object-oriented system required me to think about my end goals and how each class would communicate to share data and make it flow easily.  One of the biggest challenges this enhancement gave me was making sure the hint system worked correctly and was useable and had no broken paths. I had to rework it a few times to make sure that players knew which rooms were available and then once the hint was given the system would include directions to get to that outcome which I really needed to work out in my head how to accomplish. Addressing these issues and getting to a point where my code worked felt amazing. I was able to prove to myself that I am able to properly debug, design, and problem-solve my code when it gave me logic errors or broken paths. Overall, this enhancement significantly improved the artifact’s structure, usability, and readiness for expansion in the future.
+
+[Link to Ehnacement Two](https://github.com/krum4643/CS499/tree/main/Enhancement%202/Bletheria)
+
+______________________________________________________________________________________
+
 
