@@ -23,6 +23,7 @@ I believe overall this enhancement strengthened my ability to analyze code that 
 [Link to Enhancement One](https://github.com/krum4643/CS499/tree/main/Enhancement%201/Bletheria)
 
 [Link to Original Artifact](https://github.com/krum4643/CS499/blob/main/Bletheria.py)
+
 ______________________________________________________________________________________
 
 ## **Enhancement Two: Algorithms and Data Structures**
