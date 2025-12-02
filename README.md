@@ -32,7 +32,7 @@ In completing this enhancement, I have successfully met the outcomes I targeted 
   
 Reflecting on the process, I learned the importance of modular design and clear relationships between data in order to be able to scale the game in the future. Moving from a procedural layout to the more flexible object-oriented system required me to think about my end goals and how each class would communicate to share data and make it flow easily.  One of the biggest challenges this enhancement gave me was making sure the hint system worked correctly and was useable and had no broken paths. I had to rework it a few times to make sure that players knew which rooms were available and then once the hint was given the system would include directions to get to that outcome which I really needed to work out in my head how to accomplish. Addressing these issues and getting to a point where my code worked felt amazing. I was able to prove to myself that I am able to properly debug, design, and problem-solve my code when it gave me logic errors or broken paths. Overall, this enhancement significantly improved the artifact’s structure, usability, and readiness for expansion in the future.
 
-[Link to Ehnacement Two](https://github.com/krum4643/CS499/tree/main/Enhancement%202/Bletheria)
+[Link to Enhancement Two](https://github.com/krum4643/CS499/tree/main/Enhancement%202/Bletheria)
 
 ______________________________________________________________________________________
 
