@@ -1,6 +1,23 @@
 # **CS499 ePortfolio**
 ______________________________________________________________________________________
 
+## **Introduction**
+
+My name is Andrew Krumbach and I have been attending SNHU since January of 2024. This page serves as my final project and ePortfolio for CS-499 Capstone and effectively ends my time here at SNHU where I will be graduating with a Bacelor's degree in Computer Science.
+
+______________________________________________________________________________________
+
+## **Professional Self-Assessment**
+
+Throughout my computer science program, I have gained the knowledge, confidence, and skills necessary to grow as a software and game developer. The completion of my capstone ePortfolio has allowed me to bring all these skills together in a very polished and professional way.  Completing the work necessary for the course and building my portfolio has helped me showcase my strengths, shape what my plans are for my career, and understand what I want to be able to bring into the field.  Throughout the program, I have learned many useful things such as how to design software systems using different languages, how to write clean and maintainable code, how to properly integrate databases, apply secure practices through development, and think critically about the role technology plays in society today. More importantly, the capstone project challenged me to take a project I created early in my career to a fully updated application that demonstrates not only technical experience, but also adaptability and problem-solving skills.
+
+The work I did throughout my career at SNHU gave me experience in many important areas of computer science that I continually applied through each class. I learned to collaborate effectively on projects and assignments through group work, specifically in an agile based environment which taught me the skills necessary to effectively work as a team on any project I am included on in the future. In these projects, I was able to practice communication, organization, and version control in a simulated environment. Another skill I learned throughout my course was how to effectively communicate with stakeholders in terms they would understand while also writing design documents and user stories so that we could effectively create a product the stakeholders would be proud of.  Courses based in data structures and algorithms helped me analyze problems, select appropriate structures to get the problem completed such as hash maps and graphs, and design algorithmic solutions that are efficient in solving specific problems. Course based in software engineering helped me to grasp modular design of a project, strategies for testing code, and full-stack development for applications.  Classes focused on databases allowed me to work with SQL, design schemas, query databases, and ensure data integrity. Finally, courses I took that focused on security taught me how to identify vulnerabilities in my code, validation of input, how to apply secure coding methods, and consider risks throughout the lifecycle of development.  All of these experiences have helped to shape me into the developer I am today and gave me the skills I needed to complete my capstone and contribute to any team I am contributing to in my professional future.
+
+My capstone project itself reflects what I have learned. I took a single file text adventure game I created in one of my first coding classes and I turned it into a professional, object-oriented Java application that includes classes that are highly structured, modular, and include significantly improved logic. I enhanced the project through multiple strategic updates. First, I restructured the system using stronger algorithms and data structures, I then expanded the architecture of the app to improve my user’s experience, and finally, I integrated a SQLite database using JDBC to include a secure login with a hashed password and save-state functionality. Each of these enhancements show a different level of my understanding of the computer science necessities including problem-solving, design, integration of databases, security, and adaptability. This artifact works together to show my full range of skills that illustrates how I can build scalable applications, implement layers of persistence, apply principles in security, and show my design decisions.
+
+Overall, my portfolio shows everything I have learned over the course of my education and creates the foundation of my future in the field of computer science. It shows how I approach a challenge, how I evolve a project through enhancements that add onto themselves, and how I use my knowledge to apply industry standard techniques to create high-quality solutions and designs.  By presenting my work through this artifact that I follow with documentation and reflection, my ePortfolio shows what I have learned as well as how I will continue to grow and contribute as a professional in the development space.
+
+______________________________________________________________________________________
 
 ## **Code Review**
 [Code Review Youtube Link](https://youtu.be/mBVc4JruSi8)
@@ -20,9 +37,9 @@ One of the biggest challenges I faced in this enhancement came when I was restru
 
 I believe overall this enhancement strengthened my ability to analyze code that I have already created, plan a complete refactoring, and deliver a cleaner and more professional version of my game. It showcased the importance of organization within code and set a solid foundation for my next enhancements that involve pathfinding, databases, and secure user authentication.
 
-[Link to Enhancement One](https://github.com/krum4643/CS499/tree/main/Enhancement%201/Bletheria)
-
 [Link to Original Artifact](https://github.com/krum4643/CS499/blob/main/Bletheria.py)
+
+[Link to Enhancement One](https://github.com/krum4643/CS499/tree/main/Enhancement%201/Bletheria)
 
 ______________________________________________________________________________________
 
@@ -34,9 +51,9 @@ In completing this enhancement, I have successfully met the outcomes I targeted 
   
 Reflecting on the process, I learned the importance of modular design and clear relationships between data in order to be able to scale the game in the future. Moving from a procedural layout to the more flexible object-oriented system required me to think about my end goals and how each class would communicate to share data and make it flow easily.  One of the biggest challenges this enhancement gave me was making sure the hint system worked correctly and was useable and had no broken paths. I had to rework it a few times to make sure that players knew which rooms were available and then once the hint was given the system would include directions to get to that outcome which I really needed to work out in my head how to accomplish. Addressing these issues and getting to a point where my code worked felt amazing. I was able to prove to myself that I am able to properly debug, design, and problem-solve my code when it gave me logic errors or broken paths. Overall, this enhancement significantly improved the artifact’s structure, usability, and readiness for expansion in the future.
 
-[Link to Enhancement Two](https://github.com/krum4643/CS499/tree/main/Enhancement%202/Bletheria)
-
 [Link to Original Artifact](https://github.com/krum4643/CS499/blob/main/Bletheria.py)
+
+[Link to Enhancement Two](https://github.com/krum4643/CS499/tree/main/Enhancement%202/Bletheria)
 
 ______________________________________________________________________________________
 
