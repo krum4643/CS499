@@ -57,7 +57,7 @@ Reflecting on the process, I learned the importance of modular design and clear 
 
 ______________________________________________________________________________________
 
-## **Enhancement Three: Databases**
+## **Enhancement Three: Database**
 
 For my third and final enhancement, the artifact I selected was the same as the other two, my text-based adventure game that was created using Python in an earlier course that I am expanding and refining as a Java project. In this enhancement, I integrated a SQLite database using JDBC to add a user authentication system and a way for users to save their game in the current state. This allows players to create an account with a username and password and then later return to the game to continue where they left off. The system stores player information and game progress including the room location and state, and it retrieves this info when a user logs in with their own credentials.  I decided to include this artifact because of the original simplicity of it. I knew I could take the base code and add multiple layers to it to meet industry standards and elevate the game itself. This artifact helped me to demonstrate my ability to build a large, multi-layered system that interacts smoothly between the logic of the application and storage of user data. 
 
