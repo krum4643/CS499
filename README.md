@@ -57,4 +57,17 @@ Reflecting on the process, I learned the importance of modular design and clear 
 
 ______________________________________________________________________________________
 
+## **Enhancement Three: Databases**
+
+For my third and final enhancement, the artifact I selected was the same as the other two, my text-based adventure game that was created using Python in an earlier course that I am expanding and refining as a Java project. In this enhancement, I integrated a SQLite database using JDBC to add a user authentication system and a way for users to save their game in the current state. This allows players to create an account with a username and password and then later return to the game to continue where they left off. The system stores player information and game progress including the room location and state, and it retrieves this info when a user logs in with their own credentials.  I decided to include this artifact because of the original simplicity of it. I knew I could take the base code and add multiple layers to it to meet industry standards and elevate the game itself. This artifact helped me to demonstrate my ability to build a large, multi-layered system that interacts smoothly between the logic of the application and storage of user data. 
+
+This enhancement directly fulfills Course Outcome 4: Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database). It also satisfies Course Outcome 5: Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. By creating a login that utilizes the database and a save-state system as well as adding input validation and safe query handling, I not only strengthened the functionality of my artifact, but I also buffed the security as well for any of my users. This enhancement completed the remaining outcomes I had yet to satisfy in my coverage plan that I developed in Module One. Because these are all satisfied, I have no need to update my plan or make any adjustments.
+
+During the creation of this enhancement, I taught myself how important environment configuration truly is when you are working with external tech.  One of the main challenges I faced was that my DatabaseManager class kept throwing connection errors and I couldn’t figure out why. I eventually discovered that I had completely forgotten to download the SQLite JDBC driver and needed to add that in manually as an external JAR. Once I added that in, the database features began to function the way I had designed them to. I also found challenge in ensuring the secure handling of user input, validating login credentials, and structurally integrating the save system with what I had already built.  As I was able to get everything online and functioning, I had strengthened my skills with databases, coding securely, and layering in software design architecture throughout my capstone. All of this greatly improved the quality, reliability, and overall professionalism of my final capstone artifact.
+
+[Link to Original Artifact](https://github.com/krum4643/CS499/blob/main/Bletheria.py)
+
+[Link to Enhancement Three](https://github.com/krum4643/CS499/tree/main/Enhancement%203/Bletheria)
+
+
 
